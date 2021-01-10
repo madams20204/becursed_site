@@ -1,2 +1,1 @@
-# becursed
-# becursed.com
+Website currently under development
