@@ -1,0 +1,2 @@
+# becursed
+# becursed.com
